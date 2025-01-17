@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AnaMenu.unity
+    guid: 999665e4afda907439a2e296a3a8845b
+  - enabled: 1
+    path: Assets/Scenes/Labirent.unity
+    guid: 507d2b047dd57c54bbdbb15bf57e83d9
   m_configObjects: {}
